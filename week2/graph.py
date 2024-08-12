@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from bandit2 import *
+from bandit import *
 
 # x axis data
 x = np.linspace(0, 1000, 1000)
